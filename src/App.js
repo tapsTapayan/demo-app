@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -12,12 +11,9 @@ function App() {
         <a
           className="App-link"
           href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          Learn React
+          Learn daw ug React
         </a>
-      </header>
     </div>
   );
 }
