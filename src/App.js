@@ -7,13 +7,16 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          //removelink
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn daw ug React
+
+          blablablablabla
         </a>
     </div>
+    //diz iz comment
   );
 }
 
